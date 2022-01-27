@@ -219,8 +219,6 @@ tr:nth-child(even) {
           </div>
         </div>
       </div>
-      <!-- /.breadcrumbs-->
-      <!-- Content -->
       <div class="content" style="width: 100%; display:flex; justify-content:center; margin:20px;">
       <div style="width:70%;">
               <canvas id="myChart"></canvas>
